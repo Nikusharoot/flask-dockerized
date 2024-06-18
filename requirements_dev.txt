@@ -6,3 +6,4 @@ flake8-print
 pep8-naming
 selenium
 -r requirements.txt
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
