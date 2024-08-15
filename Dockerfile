@@ -1,4 +1,4 @@
-FROM python:3.13.0a3
+FROM python:3.13.0rc1
 
 ENV FLASK_APP gentelella.py
 
